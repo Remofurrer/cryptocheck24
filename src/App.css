@@ -1,0 +1,293 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #FFF8F1 !important;
+    font-family: 'Gilroy' !important;
+}
+
+/*navbar section*/
+.navbar {
+    z-index: 2;
+}
+.navbar__logo {
+    color: #236E57 !important;
+    font-family: "nunito" !important;
+    font-weight: 900 !important;
+    font-size: 1.75rem !important;
+    text-decoration: none !important;
+}
+
+/*navigation links*/
+.navlink {
+    font-size: 18px;
+    font-weight: 500 !important;
+    letter-spacing: 0.016em;
+}
+
+.navlink:hover {
+    color: #236E57 !important;
+}
+
+/*hero title section*/
+.title__hero {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 130%;
+    /* or 73px */
+    letter-spacing: 0.016em;
+}
+
+.statistics-container {
+    display: flex;
+}
+
+.statistics-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 150%;
+    color: #236E57;
+}
+
+.statistics-subtitle {
+    color: #807D7D;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 180%;
+}
+
+.statistics-leftside {
+    margin-right: 60px;
+}
+
+.btn-hero {
+    background-color:#F05830 !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 150%;
+    /* identical to box height, or 27px */
+
+    letter-spacing: 0.016em;
+    margin-bottom: 20px;
+
+    color: #FFFFFF !important;
+}
+
+/*partner section*/
+.partner-title {
+    text-align: center;
+    color: #236E57;
+    font-weight: 700 !important;
+    font-size: 32px !important;
+    line-height: 120% !important;
+}
+
+.logo-carousel {
+    display: flex !important;
+    justify-content: center;
+}
+
+
+/*card elements*/
+.card-container {
+    text-align: center;
+}
+.card-element {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+    gap: 24px;
+    width: 430px;
+    height: 402px;
+}
+
+.card-element:hover {
+    box-shadow: 25px 25px 100px rgba(166, 161, 157, 0.2);
+    border-radius: 12px;
+}
+
+/*company cards*/
+.companies {
+    font-weight: 700 !important;
+    font-size: 48px !important;
+    /* identical to box height, or 72px */
+    text-align: center;
+    letter-spacing: 0.016em;
+    color: #0D0D0D;
+    margin-bottom:  -60px;
+}
+
+.companies-title {
+    color: #0D0D0D !important;
+    font-weight: 700 !important;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.companies-subtitle {
+    color: #807D7D !important;
+    font-weight: 400 !important;
+    font-size: 18px;
+    line-height: 150%;
+}
+.companies-card-img {
+    background-color: #E6FDF6 !important;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+/*customer cards*/
+.customers {
+    font-weight: 700 !important;
+    font-size: 48px !important;
+    /* identical to box height, or 72px */
+    text-align: center;
+    letter-spacing: 0.016em;
+    color: #0D0D0D;
+    margin-bottom:  -60px;
+}
+
+.customers-title {
+    color: #0D0D0D !important;
+    font-weight: 700 !important;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+.customers-subtitle {
+    color: #807D7D !important;
+    font-weight: 400 !important;
+    font-size: 18px;
+    line-height: 150%;
+}
+.customers-card-img {
+    background-color: #E6FDF6 !important;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+
+/*each cards styles on homepage*/
+.card-fast {
+    background-color: #EBF3FE !important;
+}
+.card-profits {
+    background-color: #E6FDF6 !important;
+}
+.card-uptrend {
+    background-color: #FEEFEB !important;
+}
+.card-fair {
+    background-color: #f8ebfe !important;
+}
+.card-transparent {
+    background-color: #fef8eb !important;
+}
+.card-anonym {
+    background-color: #ebfef2 !important;
+}
+
+
+
+/*contact form for new companies*/
+.btn-contact {
+    background-color:#F05830 !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 150%;
+    /* identical to box height, or 27px */
+
+    letter-spacing: 0.016em;
+    margin-bottom: 20px;
+
+    color: #FFFFFF !important;
+}
+
+
+/*card styles*/
+.btn-card {
+    background-color:#236E57 !important;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 150%;
+    /* identical to box height, or 27px */
+
+    letter-spacing: 0.016em;
+    margin-bottom: 20px;
+
+    color: #FFFFFF !important;
+}
+.card-img {
+    max-height: 100%;
+}
+.card-item {
+    margin-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-title {
+    font-weight: 600 !important;
+    font-size: 26px !important;
+    line-height: 150% !important;
+}
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.address {
+    display: flex;
+    align-items: center;
+}
+
+.icons {
+    display: inline-block !important;
+    padding-right: 10px;
+}
+.icon {
+    width: 20px !important;
+}
+
+.address-text {
+    padding-left: 20px;
+}
+
+
+/*search input filter*/
+.searchbar {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 100%;
+    padding: 5px 2px;
+    border: none;
+    margin: 10px 0;
+}
+
+
+.footer {
+    background-color: #F8F9FA;
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
