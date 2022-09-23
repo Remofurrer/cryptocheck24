@@ -25,8 +25,8 @@ const contact = () => {
             <label for="message" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Was ist Ihr Anliegen?</label>
             <textarea id="message" rows="8" className="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Hinterlassen Sie uns eine Nachricht..." required></textarea>
 
-            <div class="flex items-start mb-6">
-            <div class="flex items-center h-5">
+            <div className="flex items-start mb-6">
+            <div className="flex items-center h-5">
                 <input id="terms" type="checkbox" value="" className="w-4 h-4 bg-gray-50 rounded border border-gray-300 focus:ring-3 focus:ring-blue-300 dark:bg-gray-700 dark:border-gray-600 dark:focus:ring-blue-600 dark:ring-offset-gray-800" required />
             </div>
                 <label for="terms" className="ml-2 text-sm font-medium text-gray-900 dark:text-gray-300">Ich akzeptiere die <a href="/terms" className="text-blue-600 hover:underline dark:text-blue-500">AGB </a> und <a href="/privacy" class="text-blue-600 hover:underline dark:text-blue-500">Datenschutzrichtlinien</a> </label>

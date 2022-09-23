@@ -54,8 +54,8 @@ const member = () => {
             </div>
 
           {/* choose category */}
-          <label for="small" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Kategorie wählen</label>
-            <select id="small" class="block p-2 mb-6 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>        <option selected>Kategorie wählen</option>
+          <label for="small" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Kategorie wählen</label>
+            <select id="small" className="block p-2 mb-6 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required>        <option selected>Kategorie wählen</option>
             {allCategories &&
             allCategories.map((category) => (
               <option value={category.title}>{category.title}</option>
@@ -89,16 +89,16 @@ const member = () => {
             </div>
 
           {/* text area for company description */}
-          <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Beschreibung</label>
-          <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Was macht Ihr Unternehmen...?" required></textarea>
+          <label for="message" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Beschreibung</label>
+          <textarea id="message" rows="4" className="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Was macht Ihr Unternehmen...?" required></textarea>
 
 
           {/* Image */}
-          <label class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300" for="file_input">Bild hochladen</label>
-          <input class="block w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 cursor-pointer dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400" aria-describedby="file_input_help" id="file_input" type="file" />
-          <p class="mt-1 text-sm text-gray-500 dark:text-gray-300" id="file_input_help">PNG oder JPG</p>
+          <label className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300" for="file_input">Bild hochladen</label>
+          <input className="block w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 cursor-pointer dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400" aria-describedby="file_input_help" id="file_input" type="file" />
+          <p className="mt-1 text-sm text-gray-500 dark:text-gray-300" id="file_input_help">PNG oder JPG</p>
           </form>
-          <button type="button" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Formular senden</button>
+          <button type="button" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">Formular senden</button>
 
         </div>
     </div>
