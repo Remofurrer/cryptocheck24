@@ -8,13 +8,13 @@ const privacy = () => {
             {/* header section */}
             <div>
                 <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>Cryptocheck24  Datenschutzerklärung</h2>
-                <p>In dieser Datenschutzerklärung wird beschrieben, wie Ihre personenbezogenen Daten erfasst, verwendet und weitergegeben werden, wenn Sie https://cryptocheck24.org (die "Website") nutzen oder dort etwas kaufen.</p>
+                <p>In dieser Datenschutzerklärung wird beschrieben, wie Ihre personenbezogenen Daten erfasst, verwendet und weitergegeben werden, wenn Sie https://cryptocheck24.org (die Website) nutzen oder dort etwas kaufen.</p>
             </div>
 
             {/* section 1 */}
             <div>
                 <h2 className='text-blue-700 text-xl'>VON UNS ERFASSTE PERSONENBEZOGENE DATEN</h2>
-                <p>Wenn Sie die Website besuchen, erfassen wir automatisch bestimmte Informationen über Ihr Gerät, darunter Informationen zum Webbrowser, der IP-Adresse, der Zeitzone und einigen der Cookies, die auf Ihrem Gerät installiert sind. Wenn Sie auf der Website navigieren, erfassen wir außerdem Informationen zu den einzelnen Webseiten oder Produkten, die Sie aufrufen, zu den Websites oder Suchbegriffen, die Sie auf die Website geführt haben, sowie Informationen darüber, wie Sie mit der Website interagieren. Wir bezeichnen diese automatisch erfassten Informationen als "Geräteinformationen".</p>
+                <p>Wenn Sie die Website besuchen, erfassen wir automatisch bestimmte Informationen über Ihr Gerät, darunter Informationen zum Webbrowser, der IP-Adresse, der Zeitzone und einigen der Cookies, die auf Ihrem Gerät installiert sind. Wenn Sie auf der Website navigieren, erfassen wir außerdem Informationen zu den einzelnen Webseiten oder Produkten, die Sie aufrufen, zu den Websites oder Suchbegriffen, die Sie auf die Website geführt haben, sowie Informationen darüber, wie Sie mit der Website interagieren. Wir bezeichnen diese automatisch erfassten Informationen als Geräteinformationen.</p>
                 <br></br>
                 <p>Wir erfassen Geräteinformationen mithilfe der folgenden Technologien:</p>
             </div>
@@ -22,13 +22,13 @@ const privacy = () => {
             {/* section 2 */}
             <div>
                 <ul>
-                    <li>"Protokolldateien" protokollieren Aktionen auf der Website und erfassen Daten wie IP-Adresse, Browsertyp, Internetdienstanbieter, verweisende/Ausstiegsseiten sowie Datums-/Uhrzeitstempel.</li>
-                    <li>Web Beacons", "Tags" und "Pixel" sind elektronische Dateien zur Erfassung von Informationen dazu, wie Sie auf der Website navigieren.
-                        Wenn Sie auf der Website etwas kaufen, erfassen oder eine Spende tätigen, erfassen wir außerdem bestimmte Informationen über Ihre Person. Dazu gehören Name, Rechnungsadresse, Lieferadresse, Zahlungsinformationen (einschließlich Kreditkartennummern [[, Kryptowährungen sowie die Summe derer bei Spenden]]), E-Mail-Adresse und Telefonnummer.  Wir bezeichnen diese Angaben als "Bestellinformationen".</li>
+                    <li>Protokolldateien protokollieren Aktionen auf der Website und erfassen Daten wie IP-Adresse, Browsertyp, Internetdienstanbieter, verweisende/Ausstiegsseiten sowie Datums-/Uhrzeitstempel.</li>
+                    <li>Web Beacons, Tags und Pixel sind elektronische Dateien zur Erfassung von Informationen dazu, wie Sie auf der Website navigieren.
+                        Wenn Sie auf der Website etwas kaufen, erfassen oder eine Spende tätigen, erfassen wir außerdem bestimmte Informationen über Ihre Person. Dazu gehören Name, Rechnungsadresse, Lieferadresse, Zahlungsinformationen (einschließlich Kreditkartennummern [[, Kryptowährungen sowie die Summe derer bei Spenden]]), E-Mail-Adresse und Telefonnummer.  Wir bezeichnen diese Angaben als Bestellinformationen.</li>
                 </ul>
                 <br></br>
                 <br></br>
-                <p>Mit "personenbezogene Daten" in dieser Datenschutzerklärung bezeichnen wir sowohl Geräteinformationen als auch Bestellinformationen.</p>
+                <p>Mit personenbezogene Daten in dieser Datenschutzerklärung bezeichnen wir sowohl Geräteinformationen als auch Bestellinformationen.</p>
             </div>
 
             {/* section 3 */}
@@ -48,21 +48,20 @@ const privacy = () => {
                 <p>Wir geben Ihre personenbezogenen Daten an Dritte weiter, die uns bei der Verwendung Ihrer personenbezogenen Daten wie oben beschrieben unterstützen. Zum Beispiel verwenden wir Google Analytics, um zu verstehen, wie unsere Kunden die Website nutzen. Weitere Informationen zur Verwendung Ihrer personenbezogenen Daten durch Google finden Sie hier: https://policies.google.com/privacy?hl=de.  Hier können Sie Google Analytics deaktivieren:  https://tools.google.com/dlpage/gaoptout.</p>
                 <br></br>
                 <p>Schließlich können wir Ihre personenbezogenen Daten auch weitergeben, um geltende Gesetze und Vorschriften einzuhalten, um auf eine Vorladung, einen Durchsuchungsbefehl oder eine andere rechtmäßige Anfrage nach Informationen, die wir erhalten, zu reagieren oder um unsere Rechte anderweitig zu schützen.
-                    Wie oben beschrieben verwenden wir Ihre personenbezogenen Daten, um Ihnen zielgerichtete Werbung oder Marketingmitteilungen zur Verfügung zu stellen, von denen wir glauben, dass sie für Sie von Interesse sein könnten.  Weitere Informationen darüber, wie zielgerichtete Werbung funktioniert, finden Sie auf der Aufklärungsseite der Network Advertising Initiative ("NAI") unter http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p>
+                    Wie oben beschrieben verwenden wir Ihre personenbezogenen Daten, um Ihnen zielgerichtete Werbung oder Marketingmitteilungen zur Verfügung zu stellen, von denen wir glauben, dass sie für Sie von Interesse sein könnten.  Weitere Informationen darüber, wie zielgerichtete Werbung funktioniert, finden Sie auf der Aufklärungsseite der Network Advertising Initiative (NAI) unter http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.</p>
                 <br></br>
                 <p>Sie können zielgerichtete Anzeigen hier deaktivieren:
                     ZU DEN GÄNGIGEN LINKS GEHÖREN:
                         FACEBOOK – https://www.facebook.com/settings/?tab=ads
                         GOOGLE – https://www.google.com/settings/ads/anonymous
                         BING – https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
-                    ]]
                     Darüber hinaus können Sie einige dieser Dienste über das Opt-out-Portal der Digital Advertising Alliance deaktivieren: http://optout.aboutads.info/.</p>
             </div>
 
             {/* section 4 */}
             <div>
                 <h2 className='text-blue-700 text-xl'>DO NOT TRACK</h2>
-                <p>Wir weisen Sie darauf hin, dass wir die Datenerfassungs- und -nutzungsverfahren unserer Website nicht ändern, wenn wir von Ihrem Browser ein "Do Not Track"-Signal erhalten.</p>
+                <p>Wir weisen Sie darauf hin, dass wir die Datenerfassungs- und -nutzungsverfahren unserer Website nicht ändern, wenn wir von Ihrem Browser ein Do Not Track-Signal erhalten.</p>
             </div>
 
             {/* section 5 */}

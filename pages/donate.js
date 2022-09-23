@@ -21,34 +21,37 @@ const donate = () => {
                 src={btc}
                 width='28'
                 height='28'
+                alt="bitcoin icon"
                 />
             <label className='font-semibold text-gray-600'>Bitcoin (BTC):</label>
             </div>
-            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="bc1qseaew3xcxrhqtdxv4j26zjth68djkfyx7at0el" disabled="" readonly="" />
+            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="bc1qseaew3xcxrhqtdxv4j26zjth68djkfyx7at0el" disabled="" readOnly="" />
 
             {/* ethereum adress */}
             <div className='py-4'>
                 <div className='flex items-center space-x-2 pb-2'>
-                <Image 
+                <img
                     src={eth}
                     width='28'
                     height='28'
+                    alt="ethereum icon"
                     />
                 <label className='font-semibold text-gray-600'>Ethereum (ETH):</label>
                 </div>
-                <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="0x850C2EED5Af243D693d9F9e3E84827d82D1f6589" disabled="" readonly="" />
+                <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="0x850C2EED5Af243D693d9F9e3E84827d82D1f6589" disabled="" readOnly="" />
             </div>
 
             {/* xrp adress */}
             <div className='flex items-center space-x-2 pb-2'>
-            <Image 
+            <img
                 src={xrp}
                 width='28'
                 height='28'
+                alt="xrp icon"
                 />
             <label className='font-semibold text-gray-600'>Ripple (XRP):</label>
             </div>
-            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="rNS9WeGnucGZyNNwnjwQAaxo3bFKf5eXoN" disabled="" readonly="" />
+            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="rNS9WeGnucGZyNNwnjwQAaxo3bFKf5eXoN" disabled="" readOnly="" />
         </div>
         </div>
 

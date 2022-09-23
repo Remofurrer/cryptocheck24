@@ -46,7 +46,10 @@ const Post = ({post}) => {
           {/* left section */}
           <div className='bg-white md:w-5/12 rounded'>
             
-          <img className='w-full' src={urlFor(mainImage).width(500).height(500).url()}/>
+          <img className='w-full' src={urlFor(mainImage).url()}
+            width='500'
+            height='500' 
+            alt="Mainn Image"/>
           {/* text section */}
             <div className='px-5 py-3 space-y-2'>
             <h1 className='text-2xl'>{title}</h1>

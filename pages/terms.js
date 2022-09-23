@@ -11,9 +11,9 @@ const terms = () => {
             {/* overview section */}
             <div>
                 <h2 className='text-blue-700 text-xl'>Übersicht</h2>
-                <p>Diese Website wird von Cryptocheck24 betrieben. Überall auf der Webseite beziehen sich die Begriffe "wir", "uns" und "unsere/e" auf Cryptocheck24. Cryptocheck24 bietet diese Website, einschließlich aller Informationen, Tools und Dienste, die auf dieser Website verfügbar sind, Ihnen, dem Benutzer, unter der Bedingung an, dass Sie alle hier angegebenen Bedingungen, Konditionen, Richtlinien und Hinweise akzeptieren.</p>
+                <p>Diese Website wird von Cryptocheck24 betrieben. Überall auf der Webseite beziehen sich die Begriffe wir, uns und unsere/e auf Cryptocheck24. Cryptocheck24 bietet diese Website, einschließlich aller Informationen, Tools und Dienste, die auf dieser Website verfügbar sind, Ihnen, dem Benutzer, unter der Bedingung an, dass Sie alle hier angegebenen Bedingungen, Konditionen, Richtlinien und Hinweise akzeptieren.</p>
                 <br></br>
-                <p>Wenn Sie unsere Website besuchen und/oder etwas bei uns kaufen, nutzen Sie unseren "Dienst" und erklären sich damit einverstanden, an die folgenden Allgemeinen Geschäftsbedingungen ("Allgemeine Geschäftsbedingungen", "Bedingungen") gebunden zu sein, einschließlich der zusätzlichen Geschäftsbedingungen und Richtlinien, die hierin erwähnt werden und/oder per Hyperlink verfügbar sind. Diese Allgemeinen Geschäftsbedingungen gelten für alle Benutzer der Website, insbesondere Benutzer, die Besucher, Anbieter, Kunden, Händler und/oder Verfasser von Inhalten sind.
+                <p>Wenn Sie unsere Website besuchen und/oder etwas bei uns kaufen, nutzen Sie unseren Dienst und erklären sich damit einverstanden, an die folgenden Allgemeinen Geschäftsbedingungen (Allgemeine Geschäftsbedingungen, Bedingungen) gebunden zu sein, einschließlich der zusätzlichen Geschäftsbedingungen und Richtlinien, die hierin erwähnt werden und/oder per Hyperlink verfügbar sind. Diese Allgemeinen Geschäftsbedingungen gelten für alle Benutzer der Website, insbesondere Benutzer, die Besucher, Anbieter, Kunden, Händler und/oder Verfasser von Inhalten sind.
                     Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch, bevor Sie auf unsere Website zugreifen oder diese benutzen. Durch den Zugriff auf oder die Nutzung eines jeglichen Teils der Website erklären Sie sich mit diesen Allgemeinen Geschäftsbedingungen einverstanden. Sind Sie nicht mit allen Geschäftsbedingungen dieser Vereinbarung einverstanden, dürfen Sie nicht auf die Website zugreifen oder irgendwelche Dienste nutzen. Wenn diese Allgemeinen Geschäftsbedingungen als Angebot betrachtet werden, beschränkt sich die Annahme ausdrücklich auf diese Allgemeinen Geschäftsbedingungen.</p>
                 <br></br>
                 <p>Alle neuen Funktionen oder Tools, die zur aktuellen Plattform hinzugefügt werden, unterliegen ebenfalls den Allgemeinen Geschäftsbedingungen . Sie können die aktuellste Version der Allgemeinen Geschäftsbedingungen jederzeit auf dieser Seite einsehen. Wir behalten uns das Recht vor, Teile dieser Allgemeinen Geschäftsbedingungen durch Veröffentlichung von Updates und/oder Änderungen unserer Website zu aktualisieren, zu ändern oder zu ersetzen. Es liegt in Ihrer Verantwortung, diese Seite regelmäßig auf mögliche Änderungen zu überprüfen. Indem Sie die Website nach der Veröffentlichung von irgendwelchen Änderungen weiterhin nutzen oder weiterhin darauf zugreifen, gilt dies als Annahme dieser Änderungen.</p>
@@ -83,10 +83,10 @@ const terms = () => {
 
             {/* section 7 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 7 - ZUSÄTZLICHE TOOLS</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 6 - ZUSÄTZLICHE TOOLS</h2>
                 <p>Wir bieten Ihnen möglicherweise Zugriff auf Tools von Drittanbietern, die wir weder überwachen noch kontrollieren oder beeinflussen können.</p>
                 <br></br>
-                <p>Sie stimmen zu, dass wir den Zugriff auf diese Tools "wie besehen" und "wie verfügbar" ohne jegliche Garantien, Zusicherungen oder Bedingungen jeglicher Art und ohne jegliche Befürwortung zur Verfügung stellen. Wir übernehmen keinerlei Haftung, die sich aus Ihrer Nutzung von zusätzlichen Drittanbieter-Tools ergibt oder damit zusammenhängt.</p>
+                <p>Sie stimmen zu, dass wir den Zugriff auf diese Tools wie besehen und wie verfügbar ohne jegliche Garantien, Zusicherungen oder Bedingungen jeglicher Art und ohne jegliche Befürwortung zur Verfügung stellen. Wir übernehmen keinerlei Haftung, die sich aus Ihrer Nutzung von zusätzlichen Drittanbieter-Tools ergibt oder damit zusammenhängt.</p>
                 <br></br>
                 <p>Jegliche Nutzung von zusätzlichen Tools, die über die Website angeboten werden, erfolgt auf eigene Verantwortung und nach eigenem Ermessen, und Sie sollten sicherstellen, dass Sie mit den Bedingungen, zu denen die Tools von dem/den jeweiligen Drittanbieter/n zur Verfügung gestellt werden, vertraut sind und ihnen zustimmen.</p>
                 <br></br>
@@ -95,7 +95,7 @@ const terms = () => {
 
             {/* section 8 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 8 - DRITTANBIETER-LINKS</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 7 - DRITTANBIETER-LINKS</h2>
                 <p>Gewisse Inhalte, Produkte und Serviceleistungen, die über unseren Service erhältlich sind, können Materialien von Drittanbietern umfassen.</p>
                 <br></br>
                 <p>Es kann sein, dass Drittanbieter-Links auf dieser Website Sie zu Drittanbieter-Websites führen, die nicht mit uns zusammenarbeiten. Wir sind nicht verantwortlich für die Prüfung oder Bewertung des Inhalts oder seiner Richtigkeit und wir übernehmen keine Garantie und keine Haftung oder Verantwortung für Materialien oder Websites oder für andere Materialien, Produkte oder Serviceleistungen von Drittanbietern.</p>
@@ -105,21 +105,21 @@ const terms = () => {
 
             {/* section 9 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 9 - BENUTZERKOMMENTARE, FEEDBACK UND ANDERE EINSENDUNGEN</h2>
-                <p>Wenn Sie auf unsere Aufforderung hin bestimmte Einsendungen (z. B. Wettbewerbsbeiträge) oder ohne Aufforderung durch uns kreative Ideen, Anregungen, Vorschläge, Pläne oder andere Materialien online, per E-Mail, per Post oder auf andere Weise (zusammenfassend als "Kommentare" bezeichnet) einsenden, erklären Sie sich damit einverstanden, dass wir Kommentare, die Sie an uns weiterleiten, jederzeit und ohne Einschränkung bearbeiten, vervielfältigen, veröffentlichen, verbreiten, übersetzen und auf andere Weise in einem beliebigen Medium verwenden dürfen. Wir sind und werden nicht verpflichtet sein, (1) Kommentare vertraulich zu behandeln, (2) eine Vergütung für Kommentare zu zahlen oder (3) auf Kommentare zu reagieren.
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 8 - BENUTZERKOMMENTARE, FEEDBACK UND ANDERE EINSENDUNGEN</h2>
+                <p>Wenn Sie auf unsere Aufforderung hin bestimmte Einsendungen (z. B. Wettbewerbsbeiträge) oder ohne Aufforderung durch uns kreative Ideen, Anregungen, Vorschläge, Pläne oder andere Materialien online, per E-Mail, per Post oder auf andere Weise (zusammenfassend als Kommentare bezeichnet) einsenden, erklären Sie sich damit einverstanden, dass wir Kommentare, die Sie an uns weiterleiten, jederzeit und ohne Einschränkung bearbeiten, vervielfältigen, veröffentlichen, verbreiten, übersetzen und auf andere Weise in einem beliebigen Medium verwenden dürfen. Wir sind und werden nicht verpflichtet sein, (1) Kommentare vertraulich zu behandeln, (2) eine Vergütung für Kommentare zu zahlen oder (3) auf Kommentare zu reagieren.
                     Wir können Inhalte, die wir nach eigenem Ermessen als rechtswidrig, beleidigend, bedrohend, verleumderisch, diffamierend, pornografisch, obszön oder anderweitig anstößig oder als das geistige Eigentum irgendeiner Partei oder diese Allgemeinen Geschäftsbedingungen verletzend einstufen, überwachen, bearbeiten oder entfernen, sind aber nicht dazu verpflichtet.
                     Sie stimmen zu, dass Ihre Kommentare keine Rechte Dritter verletzen, unter anderem Urheber-, Marken-, Datenschutz- oder Persönlichkeitsrechte oder andere persönliche Rechte oder Eigentumsrechte. Sie stimmen ferner zu, dass Ihre Kommentare kein verleumderisches, diffamierendes oder anderweitig rechtswidriges, beleidigendes, hasserfülltes oder obszönes Material oder Computerviren oder andere Malware enthalten, die den Betrieb der Services oder einer zugehörigen Website oder Anwendung in irgendeiner Weise beeinträchtigen könnten. Sie dürfen keine falsche E-Mail-Adresse verwenden, sich als eine andere Person ausgeben oder uns oder Dritte in Bezug auf die Herkunft von Kommentaren in die Irre führen. Für Ihre Kommentare und deren Richtigkeit tragen Sie die alleinige Verantwortung. Für Kommentare, die von Ihnen oder Dritten veröffentlicht wurden, sind wir weder verantwortlich noch haftbar.</p>
             </div>
 
             {/* section 10 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 10 - PERSONENBEZOGENE DATEN</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 9 - PERSONENBEZOGENE DATEN</h2>
                 <p>Die Übermittlung von personenbezogenen Daten über die Website unterliegt unserer Datenschutzerklärung. Lesen Sie dafür unsere Datenschutzerklärung.</p>
             </div>
 
             {/* section 11 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 11 - FEHLER, UNGENAUIGKEITEN UND AUSLASSUNGEN</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 10 - FEHLER, UNGENAUIGKEITEN UND AUSLASSUNGEN</h2>
                 <p>Gelegentlich kann es vorkommen, dass unsere Website oder unsere Serviceleistung typografische Fehler, Ungenauigkeiten oder Auslassungen in Bezug auf Beschreibungen, Preisgestaltung, Werbeaktionen, Angebote, Produktversandgebühr, Lieferzeit und Verfügbarkeit enthalten. Wir behalten uns das Recht vor, jederzeit und ohne vorherige Ankündigung (auch nachdem Sie Ihre Serviceleistung und/oder Bestellung aufgegeben haben) jegliche Fehler, Ungenauigkeiten und Auslassungen zu korrigieren und Informationen zu ändern oder zu aktualisieren oder Bestellungen und Serviceleistungen zu stornieren, wenn eine Information in Bezug auf die Serviceleistung oder auf irgendeiner zugehörigen Website falsch ist.</p>
                 <br></br>
                 <p>Wir übernehmen keine Verpflichtung zur Aktualisierung, Änderung oder Klarstellung von Informationen in Bezug auf die Serviceleistung oder auf irgendeiner zugehörigen Website, einschließlich, aber nicht beschränkt auf, Preisinformationen, es sei denn, dies ist gesetzlich vorgeschrieben. Angeführte Aktualisierungsdaten, die in Bezug auf die Serviceleistung oder auf irgendeiner zugehörigen Website angegeben werden, sollten nicht als Hinweis darauf verstanden werden, dass alle Informationen in Bezug auf die Serviceleistung oder auf irgendeiner zugehörigen Website geändert oder aktualisiert wurden.</p>
@@ -127,39 +127,39 @@ const terms = () => {
 
             {/* section 12 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 12 - VERBOTENE ANWENDUNGEN</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 11 - VERBOTENE ANWENDUNGEN</h2>
                 <p>Zusätzlich zu anderen Verboten, die in den Allgemeinen Geschäftsbedingungen dargelegt sind, ist es Ihnen untersagt, die Website oder ihren Inhalt für Folgendes zu nutzen:(a) für rechtswidrige Zwecke; (b) um andere zur Durchführung oder Teilnahme an ungesetzlichen Handlungen aufzufordern; (c) um gegen internationale, bundesstaatliche, provinzielle oder staatliche Vorschriften, Regeln, Gesetze oder örtliche Verordnungen zu verstoßen; (d) um unsere Rechte an geistigem Eigentum oder die Rechte an geistigem Eigentum anderer zu beeinträchtigen oder zu verletzen; (e) um zu belästigen, zu missbrauchen, zu beleidigen, zu verletzen, zu diffamieren, zu verleumden, zu verunglimpfen, einzuschüchtern oder aufgrund von Geschlecht, sexueller Orientierung, Religion, ethnischer Zugehörigkeit, Rasse, Alter, nationaler Herkunft oder Behinderung zu diskriminieren; (f) falsche oder irreführende Informationen zu übermitteln; 
                     (g) um Viren oder jede andere Art von schädlichem Code hochzuladen oder zu übertragen, die auf irgendeine Weise die Funktionalität oder den Betrieb der Serviceleistung oder irgendeiner zugehörigen Website, anderer Websites oder des Internets beeinträchtigen; (h) um persönliche Daten anderer zu sammeln oder zu verfolgen; (i) zum Spammen, Phishing, Pharming, Pretexting, Spidering, Crawling oder Scraping; (j) für irgendwelche obszönen oder unmoralischen Zwecke; oder (k) um die Sicherheitsfunktionen der Serviceleistung oder irgendeiner zugehörigen Website, anderer Websites oder des Internets zu stören oder zu umgehen. Wir behalten uns das Recht vor, Ihre Nutzung der Serviceleistung oder irgendeiner zugehörigen Website zu beenden, wenn Sie eine der verbotenen Anwendungen missachten.</p>
             </div>
 
             {/* section 13 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 13 - HAFTUNGSAUSSCHLUSS; HAFTUNGSBESCHRÄNKUNG</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 12 - HAFTUNGSAUSSCHLUSS; HAFTUNGSBESCHRÄNKUNG</h2>
                 <p>Wir übernehmen keine Garantie, Verantwortung oder Gewährleistung dafür, dass die Nutzung unserer Serviceleistung ununterbrochen, zeitgerecht, sicher oder fehlerfrei erfolgt.</p>
                 <br></br>
                 <p>Wir garantieren nicht, dass die Ergebnisse, die durch die Nutzung der Serviceleistung erzielt werden können, genau oder zuverlässig sind.</p>
                 <br></br>
                 <p>Sie stimmen zu, dass wir von Zeit zu Zeit die Serviceleistung auf unbestimmte Zeit entfernen oder jederzeit ohne Benachrichtigung an Sie einstellen können.
-                    Sie stimmen ausdrücklich zu, dass die Nutzung der Serviceleistung bzw. die Unfähigkeit zur Nutzung der Servicedienstleistung auf Ihr alleiniges Risiko erfolgt. Der Service und alle Produkte und Serviceleistungen, die Ihnen über den Service angeboten werden Ihnen (sofern nicht ausdrücklich von uns angegeben) "wie besehen" und "wie verfügbar" zur Ihrer Nutzung bereitgestellt, und zwar ohne jegliche Zusicherungen, Gewährleistungen oder Bedingungen jeglicher Art, weder ausdrücklich noch stillschweigend, einschließlich aller stillschweigenden Gewährleistungen oder Bedingungen der Handelsüblichkeit, handelsüblichen Qualität, Eignung für einen bestimmten Zweck, Belastbarkeit, Rechtsmängelhaftung oder Nichtverletzung von Rechten Dritter.
+                    Sie stimmen ausdrücklich zu, dass die Nutzung der Serviceleistung bzw. die Unfähigkeit zur Nutzung der Servicedienstleistung auf Ihr alleiniges Risiko erfolgt. Der Service und alle Produkte und Serviceleistungen, die Ihnen über den Service angeboten werden Ihnen (sofern nicht ausdrücklich von uns angegeben) wie besehen und wie verfügbar zur Ihrer Nutzung bereitgestellt, und zwar ohne jegliche Zusicherungen, Gewährleistungen oder Bedingungen jeglicher Art, weder ausdrücklich noch stillschweigend, einschließlich aller stillschweigenden Gewährleistungen oder Bedingungen der Handelsüblichkeit, handelsüblichen Qualität, Eignung für einen bestimmten Zweck, Belastbarkeit, Rechtsmängelhaftung oder Nichtverletzung von Rechten Dritter.
                     Auf keinen Fall sind Cryptocheck24, unsere Direktoren, leitenden Angestellten, Mitarbeiter, Tochtergesellschaften, Vertreter, Auftragnehmer, Praktikanten, Lieferanten, Dienstanbieter oder Lizenzgeber haftbar für irgendwelche Verletzungen, Verluste, Ansprüche oder jegliche direkte, indirekte, zufällige, strafende, besondere oder Folgeschäden jeglicher Art, einschließlich, aber nicht beschränkt auf entgangene Gewinne, entgangene Einnahmen, verlorene Einsparungen, Datenverlust, Wiederbeschaffungskosten oder ähnliche Schäden, unabhängig davon, ob sie auf einem Vertrag, einer unerlaubten Handlung (einschließlich Fahrlässigkeit) oder verschuldensunabhängigen Haftung beruhen oder sich sonstwie aus der Nutzung des Dienstes oder von Produkten ergeben, die über den Dienst beschafft wurden, oder für andere Ansprüche, die in irgendeiner Weise mit der Nutzung des Dienstes oder eines Produkts zusammenhängen, einschließlich, aber nicht beschränkt auf Fehler oder Auslassungen in Inhalten oder Verluste oder Schäden jeglicher Art, die sich aus der Nutzung des Dienstes oder von Inhalten (oder Produkten) ergeben, die über den Dienst veröffentlicht, übertragen oder anderweitig zur Verfügung gestellt wurden, selbst wenn auf deren Möglichkeit hingewiesen wurde.
                     Da einige Länder oder Gerichtsbarkeiten den Ausschluss oder die Haftungsbeschränkung für Folgeschäden oder zufällige Schäden in diesen Staaten oder Gerichtsbarkeiten nicht zulassen, ist unsere Haftung auf das gesetzlich maximal zulässige Maß beschränkt.</p>
             </div>
 
             {/* section 14 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 14 - ENTSCHÄDIGUNG</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 13 - ENTSCHÄDIGUNG</h2>
                 <p>Sie verpflichten sich, Cryptocheck24 und unsere Muttergesellschaft, Tochtergesellschaften, verbundenen Unternehmen, Partner, leitenden Angestellten, Führungskräfte, Vertreter, Auftragnehmer, Lizenzgeber, Dienstleister, Subunternehmer, Lieferanten, Praktikanten und Mitarbeiter im Zusammenhang mit Ansprüchen oder Forderungen, einschließlich angemessener Anwaltskosten, die von Dritten aufgrund Ihrer Verletzung dieser Allgemeinen Geschäftsbedingungen oder der Dokumente, die durch Bezugnahme darauf Bestandteil derselben sind, oder Ihrer Verletzung eines Gesetzes oder der Rechte eines Dritten geltend gemacht werden, zu entschädigen, zu verteidigen und schadlos zu halten.</p>
             </div>
 
             {/* section 15 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 15 - SALVATORISCHE KLAUSEL</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 14 - SALVATORISCHE KLAUSEL</h2>
                 <p>Sollte sich herausstellen, dass eine Bestimmung dieser Allgemeinen Geschäftsbedingungen rechtswidrig, nichtig oder nicht durchsetzbar ist, ist diese Bestimmung dennoch im gesetzlich zugelassenen Umfang durchsetzbar, und der nicht durchsetzbare Teil gilt als von diesen Allgemeinen Geschäftsbedingungen getrennt, wobei eine solche Festlegung keine Auswirkungen auf die Gültigkeit und Durchsetzbarkeit der übrigen Bestimmungen hat.</p>
             </div>
 
             {/* section 16 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 16 - KÜNDIGUNG</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 15 - KÜNDIGUNG</h2>
                 <p>Die Verpflichtungen und Verbindlichkeiten der Parteien, die vor dem Kündigungsdatum entstanden sind, überdauern die Kündigung dieser Vereinbarung für alle Zwecke.</p>
                 <br></br>
                 <p>Diese Allgemeinen Geschäftsbedingungen sind so lange gültig, bis sie von Ihnen oder uns gekündigt werden. Sie können diese Allgemeinen Geschäftsbedingungen jederzeit kündigen, indem Sie uns mitteilen, dass Sie unsere Dienste nicht mehr nutzen möchten, oder wenn Sie die Nutzung unserer Website einstellen.
@@ -168,7 +168,7 @@ const terms = () => {
 
             {/* section 17 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 17 - GESAMTE VEREINBARUNG</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 16 - GESAMTE VEREINBARUNG</h2>
                 <p>Das Versäumnis unsererseits, ein Recht oder eine Bestimmung dieser Allgemeinen Geschäftsbedingungen auszuüben oder durchzusetzen, stellt keinen Verzicht auf dieses Recht oder diese Bestimmung dar.</p>
                 <br></br>
                 <p>Diese Allgemeinen Geschäftsbedingungen sowie von uns auf dieser Website oder in Bezug auf die Serviceleistung veröffentlichten Richtlinien oder Betriebsvorschriften, stellen die gesamte Vereinbarung und Übereinkunft zwischen Ihnen und uns dar, regeln Ihre Nutzung der Serviceleistung und ersetzen alle vorherigen oder gleichzeitigen Vereinbarungen, Mitteilungen und Angebote, mündlich oder schriftlich, zwischen Ihnen und uns (einschließlich, aber nicht beschränkt auf vorherige Versionen der Allgemeinen Geschäftsbedingungen).
@@ -177,20 +177,20 @@ const terms = () => {
 
             {/* section 18 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 18 - GELTENDES RECHT</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 16 - GELTENDES RECHT</h2>
                 <p>Diese Allgemeinen Geschäftsbedingungen und alle separaten Vereinbarungen, in deren Rahmen wir Ihnen Serviceleistungen zur Verfügung stellen, unterliegen den Gesetzen von Cryptocheck24, Alte Gfennstrasse 21, Dübendorf, Zürich, 8600, Schweiz und sind nach diesen auszulegen.</p>
             </div>
 
             {/* section 19 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 19 – ÄNDERUNGEN DER ALLGEMEINEN GESCHÄFTSBEDINGUNGEN</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 18 – ÄNDERUNGEN DER ALLGEMEINEN GESCHÄFTSBEDINGUNGEN</h2>
                 <p>Die aktuellste Version der Allgemeinen Geschäftsbedingungen können Sie jederzeit auf dieser Seite einsehen.
                     Wir behalten uns das Recht vor, jegliche Teile dieser Allgemeinen Geschäftsbedingungen nach eigenem Ermessen zu aktualisieren, zu ändern oder zu ersetzen, indem wir Aktualisierungen und Änderungen auf unserer Website veröffentlichen. Es liegt in Ihrer Verantwortung, unsere Website regelmäßig auf mögliche Änderungen zu überprüfen. Indem Sie unsere Website oder die Serviceleistung nach der Veröffentlichung von Änderungen dieser Allgemeinen Geschäftsbedingungen weiterhin nutzen oder weiterhin darauf zugreifen, gilt dies als Annahme dieser Änderungen.</p>
             </div>
 
             {/* section 20 */}
             <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 20 – KONTAKTDATEN</h2>
+                <h2 className='text-blue-700 text-xl'>ABSCHNITT 19 – KONTAKTDATEN</h2>
                 <p>Fragen zu den Allgemeinen Geschäftsbedingungen sind unter info@cryptocheck24.org an uns zu richten.</p>
             </div>
         </div>
