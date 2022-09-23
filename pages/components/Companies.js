@@ -2,13 +2,11 @@ import React from 'react';
 import groq from 'groq';
 import sanityClient from "../../client.js";
 import  Link  from 'next/link';
-import Search from './Search';
 
 const Companies = ({posts}) => {
   return (
     <div>
         <div className='pb-10'>
-        <Search />
       </div>
       <div className='pb-28'>
       {posts.length  >0 && posts.map (
