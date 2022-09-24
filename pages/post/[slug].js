@@ -28,7 +28,7 @@ const ptComponents = {
   }
 }
 
-const Post = ({post}) => {
+const Post = ({ post}) => {
   const {
     title,
     id,
@@ -37,7 +37,7 @@ const Post = ({post}) => {
     mainImage,
     url,
     body = []
-  } = post
+  } = post || {};
 
   return (
     <div className=''>
@@ -53,14 +53,14 @@ const Post = ({post}) => {
             alt="Mainn Image"/>
           {/* text section */}
             <div className='px-5 py-3 space-y-2'>
-            <h1 className='text-2xl'>{post.title}</h1>
+            <h1 className='text-2xl'>{title}</h1>
               {categories && (
               <ul className='text-sm'>
                 {categories.map((category, id) => <li key={id}>{category}</li>)}
               </ul>
             )}
             <hr></hr>
-            <p className='text-sm text-gray-500'>{post.title} akzeptiert</p>
+            <p className='text-sm text-gray-500'>{title} akzeptiert</p>
             <div className='flex space-x-3'>
             {currencies.map((currency, id) => <img className='pb-2' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
             </div>
