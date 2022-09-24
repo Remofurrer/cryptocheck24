@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.0.10",
+    "@netlify/plugin-nextjs": "^4.23.1",
     "@portabletext/react": "^1.0.6",
     "@sanity/client": "^3.3.6",
     "@sanity/image-url": "^1.0.1",
