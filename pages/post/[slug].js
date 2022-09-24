@@ -31,6 +31,7 @@ const ptComponents = {
 const Post = ({post}) => {
   const {
     title,
+    id,
     categories,
     currencies,
     mainImage,
@@ -52,16 +53,16 @@ const Post = ({post}) => {
             alt="Mainn Image"/>
           {/* text section */}
             <div className='px-5 py-3 space-y-2'>
-            <h1 className='text-2xl'>{title}</h1>
+            <h1 className='text-2xl'>{post.title}</h1>
               {categories && (
               <ul className='text-sm'>
-                {categories.map(category => <li key={category}>{category}</li>)}
+                {categories.map((category, id) => <li key={id}>{category}</li>)}
               </ul>
             )}
             <hr></hr>
-            <p className='text-sm text-gray-500'>{title} akzeptiert</p>
+            <p className='text-sm text-gray-500'>{post.title} akzeptiert</p>
             <div className='flex space-x-3'>
-            {currencies.map((currency, _id) => <img className='pb-2' key={currency._id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
+            {currencies.map((currency, id) => <img className='pb-2' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
             </div>
             <a href={url} target='blank'><button className='text-lg text-white w-full pl-0 ml-0 btn py-3 bg-blue-700 rounded'>Webseite besuchen</button></a>
             </div>
