@@ -27,7 +27,7 @@ const donate = () => {
                 />
             <label className='font-semibold text-gray-600'>Bitcoin (BTC):</label>
             </div>
-            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" disabled="" readOnly="" />
+            <input type="text" id="disabled" aria-label="disabled" className="focus:outline-none bg-gray-100 border border-gray-300 text-gray-900 text-sm rounded-lg block w-full p-3" value="bc1qseaew3xcxrhqtdxv4j26zjth68djkfyx7at0el" disabled="" readOnly="" />
 
             {/* ethereum adress */}
             <div className='py-4'>
