@@ -59,7 +59,7 @@ const donate = () => {
 
         <div className=''>
             <h2 className='text-center font-semibold text-3xl pb-4 pt-28'>Wie verwenden wir Ihre Spende?</h2>
-            <p className='px-10 text-center lg:px-40 pb-28'>Wir fühlen uns dazu verpflichtet die Nutzung von Cryptocheck24 für all unsere Nutzer kostenlos zu halten. Da der Betrieb sowie die Weiterentwicklung einer solchen Plattform mit sehr viel Aufwand und hohen Kosten verbunden ist, steht jedoch ausser Frage.
+            <p className='px-10 text-center lg:px-40 pb-28'>Wir fühlen uns dazu verpflichtet die Nutzung von Cryptocheck24 für all unsere Nutzer kostenlos zu halten. Das der Betrieb sowie die Weiterentwicklung einer solchen Plattform mit sehr viel Aufwand und hohen Kosten verbunden ist, steht jedoch ausser Frage.
                 Aus diesem Grund freuen wir uns über jede Spende von unseren Nutzern und / oder Mitgliedern. Ihr seit der Grund das ein solch tolles Projekt bestehen kann und dabei hilft die Crypto Branche noch weiter auszubauen.
             </p>
         </div>
