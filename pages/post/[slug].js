@@ -59,7 +59,7 @@ const Post = ({ post}) => {
             <hr></hr>
             <p className='text-sm text-gray-500'>{title} akzeptiert</p>
             <div className='flex space-x-3'>
-            {currencies?.map((currency, id) => <img className='pb-2' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
+            {currencies?.map((currency, id) => <img className='pb-2 overflow-auto' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
             </div>
             <a href={url} target='blank'><button className='text-lg text-white w-full pl-0 ml-0 btn py-3 bg-blue-700 rounded'>Webseite besuchen</button></a>
             </div>
