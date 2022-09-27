@@ -86,9 +86,7 @@ const privacy = () => {
             {/* section 8 */}
             <div>
                 <h2 className='text-blue-700 text-xl'>KONTAKT</h2>
-                <p>Wenn Sie weitere Informationen zu unseren Datenschutzverfahren benötigen, Fragen haben oder eine Beschwerde einreichen möchten, kontaktieren Sie uns per E-Mail an info@cryptocheck24.org oder per Post an die unten genannte Adresse:</p>
-                <br></br>
-                <p>  Alte Gfennstrasse 21, Dübendorf , Zürich , 8600, Schweiz</p>
+                <p>Wenn Sie weitere Informationen zu unseren Datenschutzverfahren benötigen, Fragen haben oder eine Beschwerde einreichen möchten, kontaktieren Sie uns per E-Mail an remo.furrer@cryptocheck24.org:</p>
             </div>
         </div>
     </div>

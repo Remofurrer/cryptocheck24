@@ -6,7 +6,7 @@ const terms = () => {
         <div className='px-4 pt-40 lg:px-40 space-y-4 pb-28'>
             {/* header section */}
             <div>
-                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>ALLG. GESCHÄFTSBEDINGUNGEN</h2>
+                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>AGB</h2>
             </div>
             {/* overview section */}
             <div>
@@ -187,12 +187,7 @@ const terms = () => {
                 <p>Die aktuellste Version der Allgemeinen Geschäftsbedingungen können Sie jederzeit auf dieser Seite einsehen.
                     Wir behalten uns das Recht vor, jegliche Teile dieser Allgemeinen Geschäftsbedingungen nach eigenem Ermessen zu aktualisieren, zu ändern oder zu ersetzen, indem wir Aktualisierungen und Änderungen auf unserer Website veröffentlichen. Es liegt in Ihrer Verantwortung, unsere Website regelmäßig auf mögliche Änderungen zu überprüfen. Indem Sie unsere Website oder die Serviceleistung nach der Veröffentlichung von Änderungen dieser Allgemeinen Geschäftsbedingungen weiterhin nutzen oder weiterhin darauf zugreifen, gilt dies als Annahme dieser Änderungen.</p>
             </div>
-
-            {/* section 20 */}
-            <div>
-                <h2 className='text-blue-700 text-xl'>ABSCHNITT 19 – KONTAKTDATEN</h2>
-                <p>Fragen zu den Allgemeinen Geschäftsbedingungen sind unter info@cryptocheck24.org an uns zu richten.</p>
-            </div>
+            
         </div>
     </div>
   )
