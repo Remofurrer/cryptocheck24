@@ -14,9 +14,7 @@ const recommend = () => {
         {/* partner card seection */}
         <div className='flex flex-col justify-center items-center md:px-10 lg:flex-row lg:space-x-4 pb-28'>
             <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                <a href="#">
-                    <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
-                </a>
+
                 <div className="p-5">
                     <a href="#">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Coinbase</h5>
@@ -30,9 +28,7 @@ const recommend = () => {
             </div>
 
             <div className="my-4 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                <a href="#">
-                    <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
-                </a>
+
                 <div className="p-5">
                     <a href="">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Ledger Live</h5>
@@ -46,9 +42,7 @@ const recommend = () => {
             </div>
 
             <div className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-                <a href="#">
-                    <img className="rounded-t-lg" src="/docs/images/blog/image-1.jpg" alt="" />
-                </a>
+
                 <div className="p-5">
                     <a href="#">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Blockpit.io</h5>

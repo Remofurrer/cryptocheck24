@@ -17,8 +17,13 @@ const Footer = ({ref}) => {
                     <li className=" cursor-pointer hover:underline">
                         <Link href="/donate">Spenden</Link>
                     </li>
-                    <li className=" cursor-pointer hover:underline">
-                        <Link href="/member">Mitglied werden</Link>
+                    <li className="text-gray-400">
+                        Mitglied werden
+                        <p className='text-gray-400 text-sm'>coming soon!</p>
+                    </li>
+                    <li className="text-gray-400">
+                        Betrügerische Websites
+                        <p className='text-gray-400 text-sm'>coming soon!</p>
                     </li>
                     <li className=" cursor-pointer hover:underline">
                         <Link href="/recommend">Wir empfehlen</Link>
