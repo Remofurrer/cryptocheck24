@@ -3,9 +3,6 @@ import groq from 'groq';
 import {PortableText} from '@portabletext/react';
 import imageUrlBuilder from '@sanity/image-url';
 import client from '../../client'
-import Image from 'next/image'
-import Navbar from '../components/Navbar';
-import Footer from '../components/Footer';
 
 function urlFor (source) {
   return imageUrlBuilder(client).image(source)
@@ -116,6 +113,7 @@ export async function getStaticProps(context) {
   return {
     props: {
       post
-    }
+    },
+    revalidate: 10,
   }
 }

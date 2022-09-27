@@ -6,7 +6,7 @@ const terms = () => {
         <div className='px-4 pt-40 lg:px-40 space-y-4 pb-28'>
             {/* header section */}
             <div>
-                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>ALLGEMEINE GESCHÄFTSBEDINGUNGEN</h2>
+                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>ALLG. GESCHÄFTSBEDINGUNGEN</h2>
             </div>
             {/* overview section */}
             <div>

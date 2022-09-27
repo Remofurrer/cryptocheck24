@@ -7,7 +7,7 @@ const privacy = () => {
 
             {/* header section */}
             <div>
-                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>Cryptocheck24  Datenschutzerklärung</h2>
+                <h2 className='text-blue-700 text-4xl text-center font-semibold pb-28'>Datenschutz</h2>
                 <p>In dieser Datenschutzerklärung wird beschrieben, wie Ihre personenbezogenen Daten erfasst, verwendet und weitergegeben werden, wenn Sie https://cryptocheck24.org (die Website) nutzen oder dort etwas kaufen.</p>
             </div>
 
