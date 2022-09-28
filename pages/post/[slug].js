@@ -3,7 +3,7 @@ import groq from 'groq';
 import {PortableText} from '@portabletext/react';
 import imageUrlBuilder from '@sanity/image-url';
 import client from '../../client'
-import Takeover from '../../../pages/components/Takeover';
+import Takeover from '../../pages/components/Takeover';
 
 function urlFor (source) {
   return imageUrlBuilder(client).image(source)
