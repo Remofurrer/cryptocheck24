@@ -3,6 +3,7 @@ import groq from 'groq';
 import {PortableText} from '@portabletext/react';
 import imageUrlBuilder from '@sanity/image-url';
 import client from '../../client'
+import Takeover from '../../../pages/components/Takeover';
 
 function urlFor (source) {
   return imageUrlBuilder(client).image(source)
@@ -56,6 +57,7 @@ const Post = ({ post}) => {
                 {categories?.map((category, id) => <li key={id}>{category}</li>)}
               </ul>
             )}
+            <Takeover />
             <hr></hr>
             <p className='text-sm text-gray-500'>{title} akzeptiert</p>
             <div className='flex space-x-3'>
