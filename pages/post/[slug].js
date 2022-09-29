@@ -38,7 +38,7 @@ const Post = ({ post}) => {
   } = post || {};
 
   return (
-    <div className=''>
+    <div>
         <article className='bg-gray-100 w-full p-5 px-5'>
 
           <div className='md:flex md:space-x-4 space-y-4 md:space-y-0'>
@@ -49,21 +49,24 @@ const Post = ({ post}) => {
             width='500'
             height='500' 
             alt="Mainn Image"/>
+            
           {/* text section */}
-            <div className='px-5 py-3 space-y-2'>
+            <div className='px-5 py-3 space-y-5'>
             <h1 className='text-2xl'>{title}</h1>
               {categories && (
               <ul className='text-sm'>
                 {categories?.map((category, id) => <li key={id}>{category}</li>)}
               </ul>
             )}
-            <Takeover />
-            <hr></hr>
+
             <p className='text-sm text-gray-500'>{title} akzeptiert</p>
             <div className='flex space-x-3'>
-            {currencies?.map((currency, id) => <img className='pb-2 overflow-auto' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
+            {currencies?.map((currency, id) => <img className='pb-2 overflow-x-auto' key={id} src={urlFor(currency).width(35).height(35).url()} alt="Descriptive alt text that has been set on your images" />)} 
             </div>
             <a href={url} target='blank'><button className='text-lg text-white w-full pl-0 ml-0 btn py-3 bg-blue-700 rounded'>Webseite besuchen</button></a>
+            </div>
+            <div className='px-5'>
+            <Takeover />
             </div>
           </div>
 
@@ -74,6 +77,7 @@ const Post = ({ post}) => {
             value={body}
             components={ptComponents}
           />
+
           </div>
           </div>
 
